@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-.Rproj
+.positai
+.DS_Store
