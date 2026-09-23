@@ -1,0 +1,11 @@
+---
+title: "initial"
+output: github_document
+---
+
+```{r}
+library(tidyverse); library(readr)
+
+df <- read_table("~/PSID/MX23REL/MX23REL.txt")
+```
+
